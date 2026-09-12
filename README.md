@@ -10,6 +10,22 @@ Estudante de Engenharia da Computação (FIAP) e profissional focado no ecossist
 - 🎯 Foco atual: Arquiteturas de dados escaláveis, automação de ETL/ELT e modelagem analítica
 - 🌐 Fluência/Comunicação profissional: Português, Inglês e Espanhol
 
+<details>
+<summary><b>🌐 Switch to English version (Click to expand)</b></summary>
+<br>
+
+**`Data Engineer | AI Engineer | Data Analytics & BI`**
+
+Computer Engineering student (FIAP) and professional focused on the **Data, Analytics, and Business Intelligence** ecosystem. Currently working with Digital Supply Chain data engineering, building scalable data pipelines, analytical models, and dashboards to turn raw data into strategic business decisions.
+
+- 🎓 5th-year Computer Engineering student
+- 🚀 Enrolled in the **Scoras Academy** Training Program
+- 💡 Specializations in **Data Engineering (Snowflake, IBM)** and **Data Analytics / BI (Google, IBM)**
+- 🎯 Current focus: Scalable data architectures, ETL/ELT automation, and analytical modeling
+- 🌐 Professional communication: Portuguese, English, and Spanish
+
+</details>
+
 ---
 
 ### 🛠️ Conecte-se Comigo
